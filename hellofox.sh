@@ -1,3 +1,8 @@
 #!/bin/bash
-echo "hello Th3FoxA"
+
+echo "-------------------------"
+echo "Welcome to the Git script!"
+echo "Today is: $(date)"
+echo "Current user: $USER"
+echo "-------------------------"
 
