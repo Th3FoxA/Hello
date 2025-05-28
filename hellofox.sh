@@ -1,3 +1,5 @@
 #!/bin/bash
-echo "hello Th3FoxA"
+echo "Hello Th3FoxA"
+echo "Today is: $(date)"
+echo "Logged in as: $USER"
 
