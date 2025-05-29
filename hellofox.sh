@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Modified hello script in new version"
+echo "hello Th3FoxA"
 
